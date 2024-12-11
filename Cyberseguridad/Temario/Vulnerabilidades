@@ -1,0 +1,31 @@
+Una vulnerabilidad es mas que un fallo de
+seguridad, un punto débil en algún activo,
+ya sea físico o lógico que pueda poner en 
+riesgo la confidencialidad de la integración
+y la disponibildad de la información.
+
+Cuando hablammos de este tipo de fallos de 
+seguridad tambien tenemos que tener en cuenta
+otros tres términos:
+
+* Exploit: es un conjunto de instrucciones, órdenes,
+evidentemente código que nos serviría para aprovecharnos de esa vulnerabilidad y poder explotarla.
+
+* Payload: nos permite explotar una vulnerabilidad, pero ya después, una vez explotado, el payload mandaría y haría que hiciese lo que el creador quiera hacer.
+
+* 0-day: es cuando se descubre una vulnerabilidad o fallo en el código de un SO y que nadie tiene conocimiento sobre dicha vulnerabilidad.
+    - La gente que suele encontrar los 0-day aprovechan para vender esta vulnerabilidad a terceros por dinero.
+
+TIPOS DE VULNERABILIDADES
+
+* Naturales: son aquellas que van en consecuencia con las condiciones ambientales, condiciones que puedan poner en riesgo la información.
+
+* Físicas: son debilidades que hay en lugares donde la información se almacena o se trata de forma física.
+
+* En Software:  son fallos de seguridad y/o malas configuracione en aplicaciones, SO o servicios instalados que pueden poner en riesgo la información.
+
+* En Hardware: son defectos que puedan tener los componentes de hardware de un equipo, defectos de fábrica, configuración o deterioro que puedan poner en riesgo la información.
+
+* En Conexión: son debilidades que puedan comprometer la información que viaja a través de los distintos medios de comunicación, los más comunes como cables o medios de comunicación inalámbricos.
+
+* Humanas: son debilidades en la pare humana muy difíciles de corregir que pueden ser aprovechados por un atacante para poder obtener por ejemplo, información confidencial.
